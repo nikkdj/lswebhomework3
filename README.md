@@ -37,4 +37,6 @@ I am learning how to use git at Lambda School's [online code bootcamp](https://l
 
 That's it. Good luck!
 
+[New repository] (https://github.com/nikkdj/hellolambdaschool)
+
 *For extra credit, practice this a few times with a few different repositories.*
